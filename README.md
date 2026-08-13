@@ -8,6 +8,11 @@ I will mostly only be using the Learn C++ platform with C++23 stndrd
 ### Introduction00 (Based on each LearnC++ chapter)
 A simple introductory C++ program and any important details or configurations.
 
+### Basics 01(first chapter)
+- statements and functions, just code that does something in the computer and a colleciton of those statments. 
+- Basic objects/variables uniform initilizing with {} which are more modern and safer. 
+-  
+
 ## Building
 
 To compile and run:
