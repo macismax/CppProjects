@@ -1,0 +1,20 @@
+# C++ build/output files
+*.o
+*.a
+*.out
+*.dSYM/
+*.dylib
+*.so
+*.exe
+main
+a.out
+
+# Build directories
+build/
+bin/
+
+# VS Code
+.vscode/
+
+# macOS
+.DS_Store
