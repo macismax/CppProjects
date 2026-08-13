@@ -5,8 +5,13 @@ build/
 bin/
 out/
 
-# Compiled C/C++ files
+# Build artifacts
 *.o
+*.exe
+*.out
+*.app
+
+# Compiled C/C++ files
 *.a
 *.so
 *.dylib
