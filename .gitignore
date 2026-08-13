@@ -1,20 +1,26 @@
-# C++ build/output files
-*.o
-*.a
-*.out
-*.dSYM/
-*.dylib
-*.so
-*.exe
-main
-a.out
-
-# Build directories
+# =========================
+# Build output
+# =========================
 build/
 bin/
+out/
 
-# VS Code
-.vscode/
+# Compiled C/C++ files
+*.o
+*.a
+*.so
+*.dylib
+*.dSYM/
+*.out
+*.exe
+*.app
 
+# =========================
 # macOS
+# =========================
 .DS_Store
+
+# =========================
+# VS Code
+# =========================
+.vscode/
