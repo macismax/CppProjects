@@ -33,3 +33,4 @@ clang++ -std=c++17 test.cpp -o test
 - Build artifacts are excluded from Git (see `.gitignore`)
 - Source files are in the project root directory
 - C++ standard draft file included here: (https://www.open-std.org/jtc1/sc22/wg21/docs/standards)
+- Reminder to update everyhting or a specific file only, you have to be in the directory.
