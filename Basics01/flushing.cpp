@@ -1,4 +1,4 @@
-/*
+/*                               // This program demonstrates the behavior of output buffering in C++. It prints "Loading..." to the console, waits for 5 seconds, and then prints "Done!".
 #include <chrono>
 #include <iostream>
 #include <thread>
@@ -14,6 +14,7 @@ int main()
 */
 
 
+                                // This program demonstrates the use of std::flush to flush the output buffer immediately after printing "Loading...".
 #include <chrono>
 #include <iostream>
 #include <thread>

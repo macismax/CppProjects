@@ -23,6 +23,6 @@ int main ()
     int x{};       // define variable x to hold user input (and value-initialize it)
     std::cin >> x; // get number from keyboard and store it in variable x
     std::cout << "You entered " << x << '\n';
-    
+    std:: cout << "This is the size in bytes: " << sizeof(x) << "\n"; // size of x in bytes
 }
 
