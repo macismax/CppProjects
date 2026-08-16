@@ -15,6 +15,7 @@ A simple introductory C++ program and any important details or configurations.
 
 ### Funtions and Files (Chapter 2)
 - functions and structure returning types and non(void)
+- linker/preprocesor function/ macros(not recommended)/#ifdef, #ifndef, and #endif.
 -
 
 ## Building
