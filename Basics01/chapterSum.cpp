@@ -33,8 +33,7 @@ int main ()
     std:: cout << "===== Monthly Summary =====\n";
 
     std:: cout << "Income: $" << monthlyIncome << "\n";
-    std:: cout << "Total Expenses: $" << (housingCost + foodCost + transportationCost + entertainmentCost + otherExpenses) << "\n";
+    std:: cout << "Total Expenses: $" << (housingCost + foodCost + transportationCost + entertainmentCost + otherExpenses) << "\n"; 
     std:: cout << "Remaining Balance: $" << (monthlyIncome - (housingCost + foodCost + transportationCost + entertainmentCost + otherExpenses)) << "\n";        
-    std:: cout << "percent of income spendt: " << ((monthlyIncome - (housingCost + foodCost + transportationCost + entertainmentCost + otherExpenses)) / monthlyIncome) * 100 << "%\n";
-
+    std:: cout << "Percent of Income spent: " << ((housingCost + foodCost + transportationCost + entertainmentCost + otherExpenses) / static_cast<double>(monthlyIncome)) * 100 << "%\n";
 }

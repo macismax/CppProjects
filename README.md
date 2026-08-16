@@ -11,7 +11,11 @@ A simple introductory C++ program and any important details or configurations.
 ### Basics 01(first chapter)
 - statements and functions, just code that does something in the computer and a colleciton of those statments. 
 - Basic objects/variables uniform initilizing with {} which are more modern and safer. 
--  
+-  naming vaiables conventional/unconventional (numApples and num_apples) - formatting
+
+### Funtions and Files (Chapter 2)
+- functions and structure returning types and non(void)
+-
 
 ## Building
 
