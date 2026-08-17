@@ -16,6 +16,11 @@ A simple introductory C++ program and any important details or configurations.
 ### Funtions and Files (Chapter 2)
 - functions and structure returning types and non(void)
 - linker/preprocesor function/ macros(not recommended)/#ifdef, #ifndef, and #endif.
+- Using header/ Rules and Header Guards and Design.
+- Compiling code all together with multiple cpp files (make a build .app in terminal)
+
+
+### Debugging (Chapter 3)
 -
 
 ## Building
