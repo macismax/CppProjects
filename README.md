@@ -21,7 +21,17 @@ A simple introductory C++ program and any important details or configurations.
 
 
 ### Debugging (Chapter 3)
--
+- Debugger
+- integrating functions with others
+
+### Fundemental Data Types (Chapter 4)
+- types and size of objects size_t
+- scientific notaiton and trailing zeros (just move the decimal left(+)or to the right(-))
+- floating point numbers and if/switch statments
+- chars and static cast
+
+### Constant/Strings (Chapter 4)
+- constant variables
 
 ## Building
 
